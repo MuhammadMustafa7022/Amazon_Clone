@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonCloneAPI", "AmazonCloneAPI\AmazonCloneAPI.csproj", "{14E536DF-D5D5-40C4-B80F-0EDFBFD06025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E536DF-D5D5-40C4-B80F-0EDFBFD06025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E536DF-D5D5-40C4-B80F-0EDFBFD06025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E536DF-D5D5-40C4-B80F-0EDFBFD06025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E536DF-D5D5-40C4-B80F-0EDFBFD06025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94CFDF44-AFA0-4B54-ABE8-D09646195FFE}
+	EndGlobalSection
+EndGlobal
